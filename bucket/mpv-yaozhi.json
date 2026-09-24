@@ -12,8 +12,8 @@
             "hash": "6af54d381d4bb89cad9585022171e1365ecd50906ae5cce32d62c121ff72d592"
         }
     },
-    "extract_dir": "mpv-Yaozhi",
-    "shortcuts": [["mpv.exe", "mpv-yaozhi"]],
+    "extract_dir": "mpv-Yaozhi-1.0.6",
+    "shortcuts": [["Yaoplayer.exe", "mpv-yaozhi"]],
     "checkver": {
         "url": "https://github.com/Yaozhil/mpv-Yaozhi"
     },
